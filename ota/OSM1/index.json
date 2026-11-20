@@ -4,6 +4,11 @@
   "project_id": 7,
   "releases": [
     {
+      "version": "2.7.4",
+      "app": "OSM1-v2.7.4.manifest.json",
+      "fs": "OSM1-v2.7.4-fs.manifest.json"
+    },
+    {
       "version": "2.7.3",
       "app": "OSM1-v2.7.3.manifest.json",
       "fs": "OSM1-v2.7.3-fs.manifest.json"

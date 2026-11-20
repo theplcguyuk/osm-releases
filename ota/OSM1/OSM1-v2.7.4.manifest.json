@@ -1,0 +1,15 @@
+{
+  "project": "OSM1",
+  "project_id": 7,
+  "target": "app",
+  "version": "2.7.4",
+  "tag": "OSM1-v2.7.4",
+  "bin_filename": "OSM1-v2.7.4.bin",
+  "bin_size": 1357664,
+  "bin_sha256": "6828c8801804dd15a269cd86fc96fd1f6849fd19c86037e5211f542517d79416",
+  "payload_sha256": "bdb64c841e1566f8777c5b2fcbfceb13469ce897623a502b8fe2ac3d6ef6e336",
+  "build_unixtime": 1795198819,
+  "bin_url": "https://github.com/theplcguyuk/osm-releases/releases/download/OSM1-v2.7.4/OSM1-v2.7.4.bin",
+  "release_notes_url": "https://github.com/theplcguyuk/osm-releases/releases/tag/OSM1-v2.7.4",
+  "schema_version": 2
+}
