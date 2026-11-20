@@ -1,0 +1,15 @@
+{
+  "project": "OSM1Plus",
+  "project_id": 8,
+  "target": "app",
+  "version": "2.8.2",
+  "tag": "OSM1Plus-v2.8.2",
+  "bin_filename": "OSM1Plus-v2.8.2.bin",
+  "bin_size": 1372608,
+  "bin_sha256": "a4cf2a83af3870990b0338015122c41dc7e469b9eb70c2661585e9888ecc968e",
+  "payload_sha256": "5fc29d5ce0ad7233ad8562853f74f8b31f0cefe8655612ca7cd7b7003ac3b6b7",
+  "build_unixtime": 1795190772,
+  "bin_url": "https://github.com/theplcguyuk/osm-releases/releases/download/OSM1Plus-v2.8.2/OSM1Plus-v2.8.2.bin",
+  "release_notes_url": "https://github.com/theplcguyuk/osm-releases/releases/tag/OSM1Plus-v2.8.2",
+  "schema_version": 2
+}
