@@ -1,0 +1,15 @@
+{
+  "project": "OSM1Plus",
+  "project_id": 8,
+  "target": "fs",
+  "version": "2.8.4",
+  "tag": "OSM1Plus-v2.8.4",
+  "bin_filename": "OSM1Plus-v2.8.4-fs.bin",
+  "bin_size": 114784,
+  "bin_sha256": "1eaac9fb7bea944189c031d10fe8031766300ce9ee2b25c3a6f512fa61a81902",
+  "payload_sha256": "96028fb4245591506a51c83bcd3f4f4574f70ae91b8b1338f62d07e5475f8c0c",
+  "build_unixtime": 1795192352,
+  "bin_url": "https://github.com/theplcguyuk/osm-releases/releases/download/OSM1Plus-v2.8.4/OSM1Plus-v2.8.4-fs.bin",
+  "release_notes_url": "https://github.com/theplcguyuk/osm-releases/releases/tag/OSM1Plus-v2.8.4",
+  "schema_version": 2
+}
