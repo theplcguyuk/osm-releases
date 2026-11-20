@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "project": "OSM1",
+  "project_id": 7,
+  "releases": [
+    {
+      "version": "2.7.0",
+      "app": "OSM1-v2.7.0.manifest.json",
+      "fs": "OSM1-v2.7.0-fs.manifest.json"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "project": "OSM1",
+  "project_id": 7,
+  "target": "fs",
+  "version": "2.7.0",
+  "tag": "OSM1-v2.7.0",
+  "bin_filename": "OSM1-v2.7.0-fs.bin",
+  "bin_size": 114784,
+  "bin_sha256": "23f3788893e0b98258263aa7e957b9b082ec52f7e4051f14e72177a62a342037",
+  "payload_sha256": "f37014288b2fcc5556365f819eb1c22f9698b6076337088489c559dffebe9567",
+  "build_unixtime": 1795180100,
+  "bin_url": "https://github.com/theplcguyuk/osm-releases/releases/download/OSM1-v2.7.0/OSM1-v2.7.0-fs.bin",
+  "release_notes_url": "https://github.com/theplcguyuk/osm-releases/releases/tag/OSM1-v2.7.0",
+  "schema_version": 2
+}
